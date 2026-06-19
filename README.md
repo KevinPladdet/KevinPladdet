@@ -28,10 +28,10 @@
 ---
 ## Explore My Work
 
-<a href="https://kevinpladdet.github.io/">
+<a href="https://kevinpladdet.github.io/" target="_blank">
 <img height="40" src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=VISIT&secondaryLabel=PORTFOLIO&primaryBGColor=%23333333&primaryTextColor=%23FFFFFF&secondaryBGColor=%231ace94&secondaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase"></a>
 
 <div style="height:8px;"></div>
 
-<a href="https://itskevin183.itch.io/">
+<a href="https://itskevin183.itch.io/" target="_blank">
 <img height="40" src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=VISIT&secondaryLabel=ITCH.IO&primaryBGColor=%23333333&primaryTextColor=%23FFFFFF&secondaryBGColor=%23ff244a&secondaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&secondaryIcon=itchdotio&secondaryIconColor=%23FFFFFF&secondaryIconSize=16&secondaryIconPosition=left"></a>
